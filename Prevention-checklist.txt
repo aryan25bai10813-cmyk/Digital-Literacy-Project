@@ -1,0 +1,12 @@
+Prevention CheckList
+
+1. Always verify links before clicking, especially in emails or messages.
+2. Never share OTPs, passwords, or personal details with anyone online.
+3. Enable two-factor authentication (2FA) on all important accounts.
+4. Use strong and unique passwords for different websites.
+5. Avoid using public Wi-Fi for banking or sensitive transactions.
+6. Never approve unknown payment requests on UPI apps (like GPay, PhonePe).
+7. Double-check UPI IDs and names before sending money.
+8. Do not scan unknown QR codes, as they may lead to fraud.
+9. Report cyber fraud immediately at https://cybercrime.gov.in
+10. Call helpline number 1930 for urgent financial fraud complaints.

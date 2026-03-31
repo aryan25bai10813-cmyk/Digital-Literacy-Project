@@ -1,0 +1,7 @@
+Phishing is a type of cybercrime in which criminals pretend to be a trusted source in order to get people to give them sensitive information like passwords, bank account numbers, or one-time passwords (OTPs). People often do it through emails, messages, or fake websites.
+
+In a typical phishing attack, the following steps happen: First, the attacker sends out a fake message that looks like it came from a real company, like a bank or a well-known service. Second, the message has a link that takes the user to a fake website that looks real. Third, the person who is being attacked types in their login information or other private information on the fake site. Finally, the attacker gathers this information and uses it to get into the victim's accounts or commit fraud.
+
+Phishing can have serious effects, such as losing money, having your identity stolen, and having someone else get into your personal accounts without permission. In some cases, victims may also not be able to get into their email or social media accounts.
+
+You can stop these kinds of attacks by checking links before clicking on them, not sharing private information online, and using security features like two-factor authentication.
